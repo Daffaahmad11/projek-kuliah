@@ -8,7 +8,7 @@ Repository ini dibuat sebagai dokumentasi pembelajaran, implementasi konsep, ser
 
 | No. | Nama Project | Mata Kuliah |
 |:---:|---|---|
-| 1 | Penerapan Klasifikasi Random Forest pada Sistem Rekomendasi Produk Telekomunikasi Berbasis Preferensi | Sains Data |
+| 1 | Penerapan Klasifikasi Random Forest pada Sistem Rekomendasi Produk Telekomunikasi Berbasis Preferensi | Proyek Sains Data |
 | 2 | Implementasi Medallion Architecture untuk Pengelompokan Produk pada Transaksi E-Commerce menggunakan Apache Spark | Analisis Big Data |
 | 3 | Perancangan Data Warehouse untuk Analisis Preferensi Konsumen Kendaraan di Industri Otomotif | Pergudangan Data |
 | 4 | Repository Modul Praktikum Sains Data | Machine Learning Operations |
